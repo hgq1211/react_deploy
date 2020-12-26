@@ -1,0 +1,7 @@
+first init
+bran1 branch test
+<<<<<<< HEAD
+test3
+=======
+test2
+>>>>>>> af4f33074acbdb02334efac71076a15c848c5132
